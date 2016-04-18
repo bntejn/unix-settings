@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/taejoon/git/cfar/diversity-examples/cromu1-biased/traces'
+let g:netrw_dirhist_2='/home/taejoon/git/cfar'
+let g:netrw_dirhist_3='/home/taejoon/Documents'
+let g:netrw_dirhist_4='/home/taejoon/git/cfar/.git'
